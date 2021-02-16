@@ -2,13 +2,13 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
-  console.log("Ya llego el Horny Bot");
+  console.log("mensaje que indica que tu bot esta prendido, es de tu eleccion");
 });
 
 client.on('message', msg => {
-  if (msg.content === 'ola') {
-    msg.reply('Saludos desde el sótano de typed :c');
+  if (msg.content === 'Introduce un texto de saludo, por ejemplo hola') {
+    msg.reply('Saludos desde la Tierra de los Bots');
   }
 });
 
-client.login('ODEwOTczMTU4MzAyNjc5MDYw.YCrbnA.ze7qw2-YGiPvQN4gekPDQVV1TqU');
+client.login('Pega tu token del bot acá');
