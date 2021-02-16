@@ -1,1 +1,2 @@
-# You can use this code for creating your own Discord Bot, it's free to use and easy to setup. It's my first programming project so I hope there's no errors on it. Enjoy!!
+# Puedes usar este codigo para crear tu propio Bot en Discord, es de libre uso y es fácil de configurar. Es mi primer proyecto en cuanto a programación así que espero no encontrar errores. Disfruta!!
+PD: (El proyecto aún se encuentra en su primer día, este proyecto será actualizado diariamente con más código)
