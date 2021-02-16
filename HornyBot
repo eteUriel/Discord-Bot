@@ -1,0 +1,14 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.on('ready', () => {
+  console.log("Ya llego el Horny Bot");
+});
+
+client.on('message', msg => {
+  if (msg.content === 'ola') {
+    msg.reply('Saludos desde el sótano de typed :c');
+  }
+});
+
+client.login('ODEwOTczMTU4MzAyNjc5MDYw.YCrbnA.ze7qw2-YGiPvQN4gekPDQVV1TqU');
